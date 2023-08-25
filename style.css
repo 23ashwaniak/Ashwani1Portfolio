@@ -1,0 +1,157 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+  color: white;
+}
+* img {
+  border: 2px double black;
+}
+
+.u1 {
+  border: 2px solid black;
+  height: 150px;
+  width: 100%;
+  font-style: italic;
+}
+h1 {
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: aqua;
+}
+.up {
+  display: flex;
+  padding-top: 30px;
+}
+.up img {
+  height: 250px;
+  width: 200px;
+}
+.upa {
+  width: 30%;
+  margin-left: 80px;
+}
+.upb {
+  width: 70%;
+  font-size: 30px;
+}
+
+.nav {
+  display: flex;
+  font-size: 35px;
+  margin: 25px;
+  justify-content: space-evenly;
+}
+.name {
+  margin: 0px;
+  padding: 0px;
+  color: black;
+}
+
+.intro {
+  display: flex;
+  height: 620px;
+  margin-top: 70px;
+}
+.introa {
+  font-size: 25px;
+  margin-left: 100px;
+  width: 60%;
+}
+.introb {
+  margin-left: 5px;
+  margin-top: 30px;
+}
+.resume {
+  font-size: 20px;
+  padding-left: 50px;
+  width: 100%;
+  color: aqua;
+}
+.certificates {
+  display: block;
+  width: 90%;
+  margin: 5%;
+  height: 500px;
+  font-size: 40px;
+}
+.certificates li {
+  color: pink;
+}
+.html {
+  display: flex;
+  height: 450px;
+  margin-left: 5%;
+}
+.a {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: aqua;
+  justify-content: center;
+  padding: 10px 40px;
+}
+.b {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: aqua;
+  justify-content: center;
+  padding: 10px 40px;
+}
+.c {
+  display: flex;
+  height: 450px;
+  margin-left: 5%;
+}
+.python {
+  display: flex;
+  height: 450px;
+  margin-left: 5%;
+}
+.react {
+  display: flex;
+  height: 450px;
+  margin-left: 5%;
+}
+.web {
+  display: flex;
+  height: 450px;
+  margin-left: 5%;
+}
+.responsive {
+  display: flex;
+  height: 450px;
+  margin-left: 5%;
+}
+.training {
+  display: flex;
+  height: 450px;
+  margin-left: 5%;
+}
+.a1 {
+  height: 600px;
+  width: 90%;
+  margin: 75px;
+  padding: 5px 2px;
+}
+button {
+  font-size: 40px;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-decoration: none;
+  color: deeppink;
+  background-color: aqua;
+}
+.footer {
+  display: flex;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.fa {
+  width: 50%;
+  margin-left: 10%;
+}
+.fb {
+  width: 50%;
+  margin-left: 10%;
+}
